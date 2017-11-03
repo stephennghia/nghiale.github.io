@@ -1,2 +1,0 @@
-# nghiale.github.io
-home
